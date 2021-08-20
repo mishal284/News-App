@@ -12,4 +12,4 @@
 To run this app, click live github website link given below. OR open index.html in your browser.
 ## Repo Link: https://github.com/mishal284/News-App
 
-## Live Link:
+## Live Link: https://mishal284.github.io/News-App/
