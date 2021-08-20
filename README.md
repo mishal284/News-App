@@ -10,6 +10,6 @@
 - Browser (as runtime environment)
 ## How to run code in this repo?
 To run this app, click live github website link given below. OR open index.html in your browser.
-## Repo Link:
+## Repo Link: https://github.com/mishal284/News-App
 
 ## Live Link:
